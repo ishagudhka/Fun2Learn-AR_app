@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 3198b3c15b4c58d4d9f2cc21cabaa5cb
+timeCreated: 1517708973
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Char_x_2
+    100004: Foot_Ctrl_L
+    100006: Foot_Ctrl_R
+    100008: group
+    100010: group1
+    100012: group2
+    100014: hips
+    100016: ikHandle_Ankle_L
+    100018: ikHandle_Ankle_R
+    100020: ikHandle_L_Arm
+    100022: ikHandle_R_Arm
+    100024: ikHandle_Toe_End_L
+    100026: ikHandle_Toe_End_R
+    100028: ikHandle_Toe_L
+    100030: ikHandle_Toe_R
+    100032: joint1
+    100034: joint10
+    100036: joint11
+    100038: joint12
+    100040: joint13
+    100042: joint14
+    100044: joint15
+    100046: joint2
+    100048: joint3
+    100050: joint4
+    100052: joint5
+    100054: joint6
+    100056: joint7
+    100058: joint8
+    100060: joint9
+    100062: L_Ankle_leg
+    100064: L_Hand_Arm
+    100066: L_lo_Arm
+    100068: L_lo_leg
+    100070: L_toe2_leg
+    100072: L_toe_leg
+    100074: L_up_Arm
+    100076: L_up_leg
+    100078: nurbsCircle1
+    100080: nurbsCircle1 1
+    100082: nurbsCircle2
+    100084: nurbsCircle8
+    100086: nurbsCircle9
+    100088: pasted__pCylinder1
+    100090: pCylinder1
+    100092: R_Ankle_leg
+    100094: R_lo_Arm
+    100096: R_lo_Arm 1
+    100098: R_lo_leg
+    100100: R_toe2_leg
+    100102: R_toe_leg
+    100104: R_up_Arm
+    100106: R_up_leg
+    100108: Text_x_2
+    100110: Trim_Char_x_2_1
+    100112: Trim_Text_x_2_1
+    400000: //RootNode
+    400002: Char_x_2
+    400004: Foot_Ctrl_L
+    400006: Foot_Ctrl_R
+    400008: group
+    400010: group1
+    400012: group2
+    400014: hips
+    400016: ikHandle_Ankle_L
+    400018: ikHandle_Ankle_R
+    400020: ikHandle_L_Arm
+    400022: ikHandle_R_Arm
+    400024: ikHandle_Toe_End_L
+    400026: ikHandle_Toe_End_R
+    400028: ikHandle_Toe_L
+    400030: ikHandle_Toe_R
+    400032: joint1
+    400034: joint10
+    400036: joint11
+    400038: joint12
+    400040: joint13
+    400042: joint14
+    400044: joint15
+    400046: joint2
+    400048: joint3
+    400050: joint4
+    400052: joint5
+    400054: joint6
+    400056: joint7
+    400058: joint8
+    400060: joint9
+    400062: L_Ankle_leg
+    400064: L_Hand_Arm
+    400066: L_lo_Arm
+    400068: L_lo_leg
+    400070: L_toe2_leg
+    400072: L_toe_leg
+    400074: L_up_Arm
+    400076: L_up_leg
+    400078: nurbsCircle1
+    400080: nurbsCircle1 1
+    400082: nurbsCircle2
+    400084: nurbsCircle8
+    400086: nurbsCircle9
+    400088: pasted__pCylinder1
+    400090: pCylinder1
+    400092: R_Ankle_leg
+    400094: R_lo_Arm
+    400096: R_lo_Arm 1
+    400098: R_lo_leg
+    400100: R_toe2_leg
+    400102: R_toe_leg
+    400104: R_up_Arm
+    400106: R_up_leg
+    400108: Text_x_2
+    400110: Trim_Char_x_2_1
+    400112: Trim_Text_x_2_1
+    2300000: pasted__pCylinder1
+    2300002: pCylinder1
+    3300000: pasted__pCylinder1
+    3300002: pCylinder1
+    4300000: Trim_Char_x_2_1
+    4300002: pasted__pCylinder1
+    4300004: pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Trim_Char_x_2_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

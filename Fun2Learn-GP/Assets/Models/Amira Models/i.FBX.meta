@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: fff47a81969827746b6a2d6b3e4d4d8a
+timeCreated: 1517708891
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone004
+    100002: Box001
+    100004: Cylinder001
+    100006: Cylinder002
+    100008: Cylinder003
+    100010: Cylinder004
+    100012: Cylinder005
+    100014: Cylinder006
+    100016: Group001
+    100018: Group002
+    100020: //RootNode
+    100022: Line002
+    100024: Line004
+    100026: Line005
+    100028: Line007
+    100030: Line008
+    100032: Pyramid001
+    100034: Pyramid002
+    100036: Pyramid003
+    100038: Pyramid004
+    100040: Pyramid005
+    100042: s
+    100044: Wide Flange001
+    400000: Bone004
+    400002: Box001
+    400004: Cylinder001
+    400006: Cylinder002
+    400008: Cylinder003
+    400010: Cylinder004
+    400012: Cylinder005
+    400014: Cylinder006
+    400016: Group001
+    400018: Group002
+    400020: //RootNode
+    400022: Line002
+    400024: Line004
+    400026: Line005
+    400028: Line007
+    400030: Line008
+    400032: Pyramid001
+    400034: Pyramid002
+    400036: Pyramid003
+    400038: Pyramid004
+    400040: Pyramid005
+    400042: s
+    400044: Wide Flange001
+    2300000: Box001
+    2300002: Cylinder001
+    2300004: Cylinder002
+    2300006: Cylinder003
+    2300008: Cylinder004
+    2300010: Cylinder005
+    2300012: Cylinder006
+    2300014: Line002
+    2300016: Line004
+    2300018: Line005
+    2300020: Line007
+    2300022: Line008
+    2300024: Pyramid001
+    2300026: Pyramid002
+    2300028: Pyramid003
+    2300030: Pyramid004
+    2300032: Pyramid005
+    2300034: s
+    2300036: Wide Flange001
+    3300000: Box001
+    3300002: Cylinder001
+    3300004: Cylinder002
+    3300006: Cylinder003
+    3300008: Cylinder004
+    3300010: Cylinder005
+    3300012: Cylinder006
+    3300014: Line002
+    3300016: Line004
+    3300018: Line005
+    3300020: Line007
+    3300022: Line008
+    3300024: Pyramid001
+    3300026: Pyramid002
+    3300028: Pyramid003
+    3300030: Pyramid004
+    3300032: Pyramid005
+    3300034: s
+    3300036: Wide Flange001
+    4300000: Pyramid001
+    4300002: Pyramid002
+    4300004: Pyramid003
+    4300006: Pyramid004
+    4300008: Pyramid005
+    4300010: Wide Flange001
+    4300012: Line007
+    4300014: Line004
+    4300016: Line005
+    4300018: Line008
+    4300020: Cylinder002
+    4300022: Cylinder005
+    4300024: Cylinder004
+    4300026: Cylinder003
+    4300028: Cylinder006
+    4300030: Cylinder001
+    4300032: Box001
+    4300034: s
+    4300036: Line002
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

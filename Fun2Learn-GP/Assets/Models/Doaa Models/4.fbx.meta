@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: d35b44423194712419e8435d785bfd12
+timeCreated: 1517708977
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArmL_Ctrl
+    100004: ArmR_Ctrl
+    100006: Char_x_1
+    100008: Char_x_2
+    100010: EyeL
+    100012: EyeR
+    100014: Foot_Ctrl
+    100016: group
+    100018: group1
+    100020: Hips_Ctrl
+    100022: ikHandle1
+    100024: ikHandle_Ankle
+    100026: ikHandle_HandL
+    100028: ikHandle_HandR
+    100030: ikHandle_Toe
+    100032: joint1
+    100034: joint10
+    100036: joint11
+    100038: joint12
+    100040: joint13
+    100042: joint14
+    100044: joint2
+    100046: joint3
+    100048: joint4
+    100050: joint5
+    100052: joint6
+    100054: joint7
+    100056: joint8
+    100058: joint9
+    100060: L_Arm_up
+    100062: L_Hand_Arm
+    100064: L_lo_Arm
+    100066: leg_f
+    100068: leg_foot
+    100070: Leg_lo
+    100072: leg_toe
+    100074: leg_up
+    100076: nurbsCircle1
+    100078: nurbsCircle10
+    100080: nurbsCircle11
+    100082: nurbsCircle6
+    100084: nurbsCircle7
+    100086: nurbsSphere1
+    100088: nurbsSphere2
+    100090: pCylinder1
+    100092: pCylinder2
+    100094: R_Arm_lo
+    100096: R_Arm_up
+    100098: R_Hand_Arm
+    100100: Text_x_1
+    100102: Text_x_2
+    100104: Trim_Char_x_2_1
+    100106: Trim_Text_x_1_1
+    100108: Trim_Text_x_2_1
+    400000: //RootNode
+    400002: ArmL_Ctrl
+    400004: ArmR_Ctrl
+    400006: Char_x_1
+    400008: Char_x_2
+    400010: EyeL
+    400012: EyeR
+    400014: Foot_Ctrl
+    400016: group
+    400018: group1
+    400020: Hips_Ctrl
+    400022: ikHandle1
+    400024: ikHandle_Ankle
+    400026: ikHandle_HandL
+    400028: ikHandle_HandR
+    400030: ikHandle_Toe
+    400032: joint1
+    400034: joint10
+    400036: joint11
+    400038: joint12
+    400040: joint13
+    400042: joint14
+    400044: joint2
+    400046: joint3
+    400048: joint4
+    400050: joint5
+    400052: joint6
+    400054: joint7
+    400056: joint8
+    400058: joint9
+    400060: L_Arm_up
+    400062: L_Hand_Arm
+    400064: L_lo_Arm
+    400066: leg_f
+    400068: leg_foot
+    400070: Leg_lo
+    400072: leg_toe
+    400074: leg_up
+    400076: nurbsCircle1
+    400078: nurbsCircle10
+    400080: nurbsCircle11
+    400082: nurbsCircle6
+    400084: nurbsCircle7
+    400086: nurbsSphere1
+    400088: nurbsSphere2
+    400090: pCylinder1
+    400092: pCylinder2
+    400094: R_Arm_lo
+    400096: R_Arm_up
+    400098: R_Hand_Arm
+    400100: Text_x_1
+    400102: Text_x_2
+    400104: Trim_Char_x_2_1
+    400106: Trim_Text_x_1_1
+    400108: Trim_Text_x_2_1
+    2300000: pCylinder1
+    2300002: pCylinder2
+    3300000: pCylinder1
+    3300002: pCylinder2
+    4300000: Trim_Char_x_2_1
+    4300002: pCylinder2
+    4300004: pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Trim_Char_x_2_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

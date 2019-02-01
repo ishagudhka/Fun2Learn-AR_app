@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: fa40f2fb7c22b1748a5fd7cc37906f28
+timeCreated: 1517708980
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Char_x_1
+    100004: Char_x_2
+    100006: Char_x_3
+    100008: Char_x_4
+    100010: Foot_L_Ctrl
+    100012: Foot_R_Ctrl
+    100014: Hips
+    100016: ikHandle1
+    100018: ikHandle2
+    100020: ikHandle3
+    100022: ikHandle4
+    100024: ikHandle5
+    100026: ikHandle6
+    100028: joint10
+    100030: joint11
+    100032: joint12
+    100034: joint2
+    100036: joint2 1
+    100038: joint3
+    100040: joint3 1
+    100042: joint4
+    100044: joint4 1
+    100046: joint5
+    100048: joint5 1
+    100050: joint6
+    100052: joint7
+    100054: joint8
+    100056: joint9
+    100058: L_Leg
+    100060: nurbsCircle2
+    100062: nurbsCircle2 1
+    100064: nurbsCircle3
+    100066: pCylinder1
+    100068: pCylinder2
+    100070: R_Leg
+    100072: Text_xx_1
+    100074: Text_xx_2
+    100076: Trim_Char_x_1_1
+    100078: Trim_Char_x_4_1
+    100080: Trim_Text_xx_1_1
+    100082: Trim_Text_xx_2_1
+    400000: //RootNode
+    400002: Char_x_1
+    400004: Char_x_2
+    400006: Char_x_3
+    400008: Char_x_4
+    400010: Foot_L_Ctrl
+    400012: Foot_R_Ctrl
+    400014: Hips
+    400016: ikHandle1
+    400018: ikHandle2
+    400020: ikHandle3
+    400022: ikHandle4
+    400024: ikHandle5
+    400026: ikHandle6
+    400028: joint10
+    400030: joint11
+    400032: joint12
+    400034: joint2
+    400036: joint2 1
+    400038: joint3
+    400040: joint3 1
+    400042: joint4
+    400044: joint4 1
+    400046: joint5
+    400048: joint5 1
+    400050: joint6
+    400052: joint7
+    400054: joint8
+    400056: joint9
+    400058: L_Leg
+    400060: nurbsCircle2
+    400062: nurbsCircle2 1
+    400064: nurbsCircle3
+    400066: pCylinder1
+    400068: pCylinder2
+    400070: R_Leg
+    400072: Text_xx_1
+    400074: Text_xx_2
+    400076: Trim_Char_x_1_1
+    400078: Trim_Char_x_4_1
+    400080: Trim_Text_xx_1_1
+    400082: Trim_Text_xx_2_1
+    2300000: pCylinder1
+    2300002: pCylinder2
+    2300004: Trim_Char_x_1_1
+    3300000: pCylinder1
+    3300002: pCylinder2
+    3300004: Trim_Char_x_1_1
+    4300000: Trim_Char_x_1_1
+    4300002: Trim_Char_x_4_1
+    4300004: pCylinder1
+    4300006: pCylinder2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Trim_Char_x_4_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

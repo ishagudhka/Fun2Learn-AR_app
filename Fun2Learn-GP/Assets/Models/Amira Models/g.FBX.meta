@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: b943dbae3aab44a468cb13a9668bb6dc
+timeCreated: 1517708807
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Box003
+    100010: Box004
+    100012: Box005
+    100014: Box006
+    100016: Cylinder001
+    100018: Cylinder002
+    100020: Cylinder003
+    100022: Cylinder004
+    100024: Cylinder005
+    100026: eye
+    100028: //RootNode
+    100030: Group002
+    100032: Group003
+    100034: Group004
+    100036: Shape002
+    100038: Shape002 1
+    100040: Shape003
+    100042: Sphere001
+    100044: t
+    100046: Text001
+    100048: Text002
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Box003
+    400010: Box004
+    400012: Box005
+    400014: Box006
+    400016: Cylinder001
+    400018: Cylinder002
+    400020: Cylinder003
+    400022: Cylinder004
+    400024: Cylinder005
+    400026: eye
+    400028: //RootNode
+    400030: Group002
+    400032: Group003
+    400034: Group004
+    400036: Shape002
+    400038: Shape002 1
+    400040: Shape003
+    400042: Sphere001
+    400044: t
+    400046: Text001
+    400048: Text002
+    2300000: Box003
+    2300002: Box004
+    2300004: Box005
+    2300006: Box006
+    2300008: Cylinder001
+    2300010: Cylinder002
+    2300012: Cylinder003
+    2300014: Cylinder004
+    2300016: Cylinder005
+    2300018: Shape002
+    2300020: Shape002 1
+    2300022: Shape003
+    2300024: Sphere001
+    2300026: t
+    2300028: Text001
+    2300030: Text002
+    3300000: Box003
+    3300002: Box004
+    3300004: Box005
+    3300006: Box006
+    3300008: Cylinder001
+    3300010: Cylinder002
+    3300012: Cylinder003
+    3300014: Cylinder004
+    3300016: Cylinder005
+    3300018: Shape002
+    3300020: Shape002 1
+    3300022: Shape003
+    3300024: Sphere001
+    3300026: t
+    3300028: Text001
+    3300030: Text002
+    4300000: Shape002
+    4300002: Sphere001
+    4300004: Box003
+    4300006: Box004
+    4300008: Box006
+    4300010: Box005
+    4300012: Text001
+    4300014: Cylinder003
+    4300016: Cylinder001
+    4300018: Cylinder004
+    4300020: Cylinder002
+    4300022: Cylinder005
+    4300024: Text002
+    4300026: t
+    4300028: Shape002
+    4300030: Shape003
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

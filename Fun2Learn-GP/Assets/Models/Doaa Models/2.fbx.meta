@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: f182e19d7d40fb240b95c1af32927464
+timeCreated: 1517708979
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Arm_Ctrl_L
+    100004: Arm_Ctrl_R
+    100006: Char_x_2
+    100008: foot_Ctrl_L
+    100010: foot_Ctrl_R
+    100012: group
+    100014: group1
+    100016: group2
+    100018: hips
+    100020: ikHandle_Ankle_L
+    100022: ikHandle_Ankle_R
+    100024: ikHandle_HandL
+    100026: ikHandle_HandR
+    100028: ikHandle_toe_End_L
+    100030: ikHandle_toe_End_R
+    100032: ikHandle_Toe_L
+    100034: ikHandle_Toe_R
+    100036: joint1
+    100038: joint10
+    100040: joint11
+    100042: joint12
+    100044: joint13
+    100046: joint14
+    100048: joint2
+    100050: joint3
+    100052: joint4
+    100054: joint5
+    100056: joint6
+    100058: joint7
+    100060: joint8
+    100062: joint9
+    100064: L_foot_leg
+    100066: L_foot_leg 1
+    100068: L_Hand_Arm
+    100070: L_lo_Arm
+    100072: L_lo_leg
+    100074: L_toe_leg
+    100076: L_up_Arm
+    100078: L_up_leg
+    100080: nurbsCircle1
+    100082: nurbsCircle1 1
+    100084: nurbsCircle10
+    100086: nurbsCircle11
+    100088: nurbsCircle6
+    100090: nurbsCircle7
+    100092: nurbsCircle9
+    100094: pCylinder3
+    100096: pCylinder4
+    100098: polySurface5
+    100100: pSphere5
+    100102: R_foot_leg
+    100104: R_foot_leg 1
+    100106: R_Hand_Arm
+    100108: R_lo_Arm
+    100110: R_lo_leg
+    100112: R_toe_leg
+    100114: R_up_Arm
+    100116: R_up_leg
+    100118: Text_x_2
+    100120: Trim_Char_x_2_1
+    100122: Trim_Char_x_2_2
+    100124: Trim_Char_x_2_3
+    100126: Trim_Text_x_2_1
+    400000: //RootNode
+    400002: Arm_Ctrl_L
+    400004: Arm_Ctrl_R
+    400006: Char_x_2
+    400008: foot_Ctrl_L
+    400010: foot_Ctrl_R
+    400012: group
+    400014: group1
+    400016: group2
+    400018: hips
+    400020: ikHandle_Ankle_L
+    400022: ikHandle_Ankle_R
+    400024: ikHandle_HandL
+    400026: ikHandle_HandR
+    400028: ikHandle_toe_End_L
+    400030: ikHandle_toe_End_R
+    400032: ikHandle_Toe_L
+    400034: ikHandle_Toe_R
+    400036: joint1
+    400038: joint10
+    400040: joint11
+    400042: joint12
+    400044: joint13
+    400046: joint14
+    400048: joint2
+    400050: joint3
+    400052: joint4
+    400054: joint5
+    400056: joint6
+    400058: joint7
+    400060: joint8
+    400062: joint9
+    400064: L_foot_leg
+    400066: L_foot_leg 1
+    400068: L_Hand_Arm
+    400070: L_lo_Arm
+    400072: L_lo_leg
+    400074: L_toe_leg
+    400076: L_up_Arm
+    400078: L_up_leg
+    400080: nurbsCircle1
+    400082: nurbsCircle1 1
+    400084: nurbsCircle10
+    400086: nurbsCircle11
+    400088: nurbsCircle6
+    400090: nurbsCircle7
+    400092: nurbsCircle9
+    400094: pCylinder3
+    400096: pCylinder4
+    400098: polySurface5
+    400100: pSphere5
+    400102: R_foot_leg
+    400104: R_foot_leg 1
+    400106: R_Hand_Arm
+    400108: R_lo_Arm
+    400110: R_lo_leg
+    400112: R_toe_leg
+    400114: R_up_Arm
+    400116: R_up_leg
+    400118: Text_x_2
+    400120: Trim_Char_x_2_1
+    400122: Trim_Char_x_2_2
+    400124: Trim_Char_x_2_3
+    400126: Trim_Text_x_2_1
+    2300000: pCylinder3
+    2300002: pCylinder4
+    2300004: Trim_Char_x_2_1
+    2300006: Trim_Char_x_2_3
+    3300000: pCylinder3
+    3300002: pCylinder4
+    3300004: Trim_Char_x_2_1
+    3300006: Trim_Char_x_2_3
+    4300000: Trim_Char_x_2_1
+    4300002: Trim_Char_x_2_3
+    4300004: polySurface5
+    4300006: pCylinder4
+    4300008: pCylinder3
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
